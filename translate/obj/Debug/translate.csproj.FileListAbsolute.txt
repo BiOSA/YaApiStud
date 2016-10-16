@@ -1,0 +1,12 @@
+C:\Users\BiOSA\Desktop\translate\translate\bin\Debug\translate.exe.config
+C:\Users\BiOSA\Desktop\translate\translate\bin\Debug\translate.exe
+C:\Users\BiOSA\Desktop\translate\translate\bin\Debug\translate.pdb
+C:\Users\BiOSA\Desktop\translate\translate\obj\Debug\translate.csprojResolveAssemblyReference.cache
+C:\Users\BiOSA\Desktop\translate\translate\obj\Debug\translate.Form1.resources
+C:\Users\BiOSA\Desktop\translate\translate\obj\Debug\translate.Properties.Resources.resources
+C:\Users\BiOSA\Desktop\translate\translate\obj\Debug\translate.csproj.GenerateResource.Cache
+C:\Users\BiOSA\Desktop\translate\translate\obj\Debug\translate.exe
+C:\Users\BiOSA\Desktop\translate\translate\obj\Debug\translate.pdb
+C:\Users\BiOSA\Desktop\translate\translate\bin\Debug\RestSharp.dll
+C:\Users\BiOSA\Desktop\translate\translate\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\BiOSA\Desktop\translate\translate\bin\Debug\RestSharp.xml
